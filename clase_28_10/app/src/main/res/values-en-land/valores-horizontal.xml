@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saludo">English version landscape</string>
+    <color name="color_fondo">#090909</color>
+    <color name="color_texto">#FDFDFD</color>
+</resources>

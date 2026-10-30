@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saludo">Hello, my name is Diego!</string>
+    <color name="color_texto">#3EE2D2</color>
+    <color name="color_fondo">#1E490E</color>
+</resources>
